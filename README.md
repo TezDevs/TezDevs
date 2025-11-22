@@ -157,7 +157,8 @@ An R&D skunkworks for strange ideas, prototypes, and visual experiments.
 Frontend:  Next.js · React · Tailwind · Vercel
 Backend:   Node.js · Supabase · AWS · Render
 DevOps:    Cloudflare · GitHub Actions
-Design:    Figma · Adobe
+Design:    Figma · Adobe 
+
 I value strong DX, clean architecture, and aesthetic precision.
 
 [ MISSION DIRECTIVE • OBJECTIVE ]
@@ -168,16 +169,23 @@ Fast and lean
 Visually distinct
 Designed with care
 Engineered with discipline
+
 Digital Hooligan = clean lines, neon edges, engineered expression.
 
-[ CONTACT NODE • INFO PANEL ]
-📡 Connect With Me
-| Channel     | Details                                                                                    |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| 🌐 Website  | [https://digitalhooligan.io](https://digitalhooligan.io)                                   |
-| 💼 LinkedIn | [https://www.linkedin.com/in/courtez-cannady](https://www.linkedin.com/in/courtez-cannady) |
-| ✉️ Email    | [ceo@digitalhooligan.io](mailto:ceo@digitalhooligan.io)                                    |
-| 📱 Phone    | 540-287-6266                                                                               |
+---
+
+### `[ CONTACT NODE • INFO PANEL ]`
+
+## 📡 Connect With Me  
+
+| Channel     | Details |
+|-------------|---------|
+| 🌐 Website  | https://digitalhooligan.io |
+| 💼 LinkedIn | https://www.linkedin.com/in/courtez-cannady |
+| ✉️ Email    | ceo@digitalhooligan.io |
+| 📱 Phone    | 540-287-6266 |
+| 📍 Location | Woodbridge, VA |
+
 <br>
 
 <div align="center">
