@@ -80,8 +80,8 @@ DevOps:    Cloudflare · GitHub Actions
 Design:    Figma · Adobe
 I value strong DX, clean architecture, and aesthetic precision.
 
-### `[ MISSION DIRECTIVE • OBJECTIVE ]`
-## 🏁 Primary Mission
+[ MISSION DIRECTIVE • OBJECTIVE ]
+🏁 Primary Mission
 Build software that is:
 Modern and intentional
 Fast and lean
@@ -90,9 +90,9 @@ Designed with care
 Engineered with discipline
 Digital Hooligan = clean lines, neon edges, engineered expression.
 
-### `[ CONTACT NODE • INFO PANEL ]`
+[ CONTACT NODE • INFO PANEL ]
 
-## 📡 Connect With Me
+📡 Connect With Me
 Channel	Details
 🌐 Website	    https://digitalhooligan.io
 💼 LinkedIn	    https://www.linkedin.com/in/courtez-cannady
