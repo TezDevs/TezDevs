@@ -178,5 +178,9 @@ Digital Hooligan = clean lines, neon edges, engineered expression.
 | 💼 LinkedIn | [https://www.linkedin.com/in/courtez-cannady](https://www.linkedin.com/in/courtez-cannady) |
 | ✉️ Email    | [ceo@digitalhooligan.io](mailto:ceo@digitalhooligan.io)                                    |
 | 📱 Phone    | 540-287-6266                                                                               |
-| 📍 Location | Woodbridge, VA                                                                             |
-<p align="center"> <strong>DIGITAL HOOLIGAN</strong><br> <em>Graffiti-coded. Cyberpunk-powered. Built with intention.</em> </p>
+<br>
+
+<div align="center">
+  <strong>DIGITAL HOOLIGAN</strong><br>
+  <em>Graffiti-coded. Cyberpunk-powered. Built with intention.</em>
+</div>
