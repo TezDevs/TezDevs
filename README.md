@@ -30,7 +30,7 @@ Clean code. Bold visuals. Fast execution.
 
 ### 🪙 PennyWize  
 A neon-fast micro-market & penny-stock intel tool.  
-Minimal UI • High signal • Cyberpunk feel
+Minimal UI • High signal • Cyberpunk feel.
 
 ---
 
@@ -110,7 +110,7 @@ Clean code. Bold visuals. Fast execution.
 
 ### 🪙 PennyWize  
 A neon-fast micro-market & penny-stock intel tool.  
-Minimal UI • High signal • Cyberpunk feel
+Minimal UI • High signal • Cyberpunk feel.
 
 ---
 
@@ -179,4 +179,4 @@ Digital Hooligan = clean lines, neon edges, engineered expression.
 | ✉️ Email    | [ceo@digitalhooligan.io](mailto:ceo@digitalhooligan.io)                                    |
 | 📱 Phone    | 540-287-6266                                                                               |
 | 📍 Location | Woodbridge, VA                                                                             |
-<p align="center"> <strong>DIGITAL HOOLIGAN</strong><br> <em>Graffiti-coded. Cyberpunk-powered. Built with intention.</em> </p> ```
+<p align="center"> <strong>DIGITAL HOOLIGAN</strong><br> <em>Graffiti-coded. Cyberpunk-powered. Built with intention.</em> </p>
