@@ -78,6 +78,7 @@ Frontend:  Next.js · React · Tailwind · Vercel
 Backend:   Node.js · Supabase · AWS · Render
 DevOps:    Cloudflare · GitHub Actions
 Design:    Figma · Adobe
+```
 <p align="center">
   <img src="https://github.com/TezDevs/TezDevs/raw/main/DigitalHooliganBanner.png" width="100%" alt="Digital Hooligan Banner">
 </p>
@@ -158,7 +159,7 @@ Frontend:  Next.js · React · Tailwind · Vercel
 Backend:   Node.js · Supabase · AWS · Render
 DevOps:    Cloudflare · GitHub Actions
 Design:    Figma · Adobe 
-
+```
 I value strong DX, clean architecture, and aesthetic precision.
 
 [ MISSION DIRECTIVE • OBJECTIVE ]
