@@ -15,7 +15,7 @@ My background spans:
 - Defense C4ISR & ICAM engineering  
 - Mission-driven technical leadership  
 - Product ownership and MVP delivery  
-- High-speed prototyping  
+- Rapid prototyping  
 
 I build with a philosophy of:  
 <strong>Clean code. Bold visuals. Fast execution.</strong>
@@ -28,7 +28,7 @@ I build with a philosophy of:
 A rapid-intel micro-market tool with minimal UI and neon accents.
 
 ### 🏴 Digital Hooligan HQ  
-The central hub of the brand and ecosystem.
+The central hub of the brand and product ecosystem.
 
 ### 🔬 Hooligan Labs  
 An R&D space for experimental ideas and prototypes.
@@ -42,4 +42,10 @@ Backend:    Node.js · Supabase · AWS · Render
 DevOps:     Cloudflare · GitHub Actions
 Design:     Figma · Adobe
 
+🤝 Connect With Me
+🌐 Website: https://digitalhooligan.io
+💼 LinkedIn: https://www.linkedin.com/in/courtez-cannady
+✉️ Email: ceo@digitalhooligan.io
+📱 Phone: 540-287-6266
+📍 Location: Woodbridge, VA
 <p align="center"> <strong>DIGITAL HOOLIGAN</strong><br> <em>Clean lines. Neon edges. Engineered expression.</em> </p>
