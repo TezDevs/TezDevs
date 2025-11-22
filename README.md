@@ -11,7 +11,7 @@
 ### `[ SYSTEM ONLINE • IDENTITY VERIFIED ]`
 
 ## 🖤 Operator Profile  
-I’m **Courtez Cannady**, founder of **Digital Hooligan**, a modern app studio where **minimal cyberpunk design** meets **street-level creativity** and **mission-engineering discipline**.
+I’m **Courtez Cannady**, founder of **Digital Hooligan** — a modern app studio where **minimal cyberpunk design** meets **street creativity** and **mission-grade engineering discipline**.
 
 My background spans:  
 - Defense C4ISR & ICAM engineering  
@@ -49,13 +49,12 @@ An R&D skunkworks for strange ideas, prototypes, and visual experiments.
 ## 🎨 Digital Hooligan Identity
 
 ### Color DNA  
-Onyx Black #111111
-Rebel Red #FF3131
-Electric Mint #1EFFCB
-Graffiti Yellow #FFC700
-Spray Pink #FF4DB2
-Circuit Blue #00C8FF
-
+- **Onyx Black** — `#111111`  
+- **Rebel Red** — `#FF3131`  
+- **Electric Mint** — `#1EFFCB`  
+- **Graffiti Yellow** — `#FFC700`  
+- **Spray Pink** — `#FF4DB2`  
+- **Circuit Blue** — `#00C8FF`  
 
 ### Typography Stack  
 - **Bebas Neue** — bold & iconic  
@@ -73,6 +72,7 @@ Circuit Blue #00C8FF
 ### `[ TECH SPEC • SYSTEM STACK ]`
 
 ## 🧠 Tech Stack  
+
 ```txt
 Frontend:  Next.js · React · Tailwind · Vercel
 Backend:   Node.js · Supabase · AWS · Render
@@ -93,10 +93,11 @@ Digital Hooligan = clean lines, neon edges, engineered expression.
 [ CONTACT NODE • INFO PANEL ]
 
 📡 Connect With Me
-Channel	Details
-🌐 Website	    https://digitalhooligan.io
-💼 LinkedIn	    https://www.linkedin.com/in/courtez-cannady
-✉️ Email	      ceo@digitalhooligan.io
-📱 Phone	      540-287-6266
-📍 Location	    Woodbridge, VA
-<p align="center"> <strong>DIGITAL HOOLIGAN</strong><br> <em>Graffiti-coded. Cyberpunk-powered. Built with intention.</em> </p>
+| Channel     | Details                                                                                    |
+| ----------- | ------------------------------------------------------------------------------------------ |
+| 🌐 Website  | [https://digitalhooligan.io](https://digitalhooligan.io)                                   |
+| 💼 LinkedIn | [https://www.linkedin.com/in/courtez-cannady](https://www.linkedin.com/in/courtez-cannady) |
+| ✉️ Email    | [ceo@digitalhooligan.io](mailto:ceo@digitalhooligan.io)                                    |
+| 📱 Phone    | 540-287-6266                                                                               |
+| 📍 Location | Woodbridge, VA                                                                             |
+<p align="center"> <strong>DIGITAL HOOLIGAN</strong><br> <em>Graffiti-coded. Cyberpunk-powered. Built with intention.</em> </p> ```
