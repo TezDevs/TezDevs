@@ -1,114 +1,93 @@
-<p align="center">
-  <img src="https://github.com/TezDevs/TezDevs/raw/main/DigitalHooliganBanner.png" width="100%" alt="Digital Hooligan Banner">
-</p>
-
-<h1 align="center">TEZDEVS</h1>
-<p align="center"><strong>Founder of Digital Hooligan</strong></p>
-<p align="center"><em>Cyberpunk aesthetic. Graffiti influence. Disciplined engineering.</em></p>
 
 ---
 
-### `[ SYSTEM ONLINE • IDENTITY VERIFIED ]`
+## Operator Context
 
-## 🖤 Operator Profile  
-I’m **Courtez Cannady**, founder of **Digital Hooligan**, a modern app studio where **minimal cyberpunk design** meets **street creativity** and **mission-grade engineering discipline**.
+This account represents founder-operated development work behind **Digital Hooligan LLC** — a modern software studio building evidence-first systems, internal tooling, and SaaS products designed for real operational environments.
 
-My background spans:  
-- Defense C4ISR & ICAM engineering  
-- Mission-driven technical leadership  
-- Product ownership & MVP delivery  
-- Rapid prototyping and experimental builds  
+Work here reflects:
+- System design and architecture
+- Product execution
+- Research-driven tooling
+- Long-term maintainability over short-term hype
 
-**Core Philosophy:**  
-Clean code. Bold visuals. Fast execution.
-
----
-
-### `[ ACTIVE MODULES • BUILD QUEUE ]`
-
-## ⚡ What I’m Building
-
-### 🪙 PennyWize  
-A neon-fast micro-market & penny-stock intel tool.  
-Minimal UI • High signal • Cyberpunk feel.
+This is not a personal portfolio or resume.  
+It is an execution surface tied to an operating company.
 
 ---
 
-### 🏴 Digital Hooligan HQ  
-Central command for brand, product ecosystem, and design language.
+## Active Systems
+
+### PennyWize  
+Signal + research assist platform for small-cap market analysis.  
+Built with explainability, traceability, and evidence-first rules.
+
+### Digital Hooligan HQ  
+Central command layer for brand, product portfolio, and operating system.
+
+### Hooligan Labs  
+R&D skunkworks for prototypes, system experiments, and visual tooling.
 
 ---
 
-### 🔬 Hooligan Labs  
-An R&D skunkworks for strange ideas, prototypes, and visual experiments.
+## Operating Philosophy
+
+Digital Hooligan systems are built with explicit constraints:
+
+- Evidence before opinion  
+- Clear contracts between components  
+- Minimal interfaces, explicit behavior  
+- Design that supports reasoning, not decoration  
+
+Software should reduce cognitive load and clarify decisions — not amplify noise.
 
 ---
 
-### `[ VISUAL LANGUAGE • BRAND SPEC ]`
+## Visual Language (Reference)
 
-## 🎨 Digital Hooligan Identity
+**Design DNA**
+- Onyx Black — `#111111`
+- Rebel Red — `#FF3B1A`
+- Electric Mint — `#1EFFCB`
+- Graffiti Yellow — `#FFC700`
+- Circuit Blue — `#00C8FF`
 
-### Color DNA  
-- **Onyx Black** — `#111111`  
-- **Rebel Red** — `#FF3131`  
-- **Electric Mint** — `#1EFFCB`  
-- **Graffiti Yellow** — `#FFC700`  
-- **Spray Pink** — `#FF4DB2`  
-- **Circuit Blue** — `#00C8FF`  
+**Typography**
+- Space Grotesk / Bebas Neue (display)
+- Inter (body)
+- JetBrains Mono (system & data)
 
-### Typography Stack  
-- **Bebas Neue** — bold & iconic  
-- **Inter** — clean & modern  
-- **JetBrains Mono** — terminal-tech feel  
-
-### Design Notes  
-- Minimal cyberpunk  
-- Neon edges, dark surfaces  
-- Graffiti-inspired attitude  
-- Structured, breathable layouts  
+Minimal cyberpunk. Neon used sparingly.  
+Structure always comes first.
 
 ---
 
-### `[ TECH SPEC • SYSTEM STACK ]`
+## System Stack
 
-## 🧠 Tech Stack  
+**Frontend**
+- Next.js · React · Tailwind · Vercel
 
-```txt
-Frontend:  Next.js · React · Tailwind · Vercel
-Backend:   Node.js · Supabase · AWS · Render
-DevOps:    Cloudflare · GitHub Actions
-Design:    Figma · Adobe 
-```
-I value strong DX, clean architecture, and aesthetic precision.
+**Backend**
+- Node.js · Supabase · AWS · Render
 
-[ MISSION DIRECTIVE • OBJECTIVE ]
-🏁 Primary Mission
-Build software that is:
-Modern and intentional
-Fast and lean
-Visually distinct
-Designed with care
-Engineered with discipline
+**Ops**
+- Cloudflare · GitHub Actions
 
-Digital Hooligan = clean lines, neon edges, engineered expression.
+**Design**
+- Figma · Adobe
 
 ---
 
-### `[ CONTACT NODE • INFO PANEL ]`
+## Connect
 
-## 📡 Connect With Me  
+| Channel | Link |
+|------|------|
+| Website | https://digitalhooligan.io |
+| LinkedIn | https://www.linkedin.com/in/courtez-cannady |
+| Email | tez@digitalhooligan.io |
+| Location | Woodbridge, VA |
 
-| Channel     | Details |
-|-------------|---------|
-| 🌐 Website  | https://digitalhooligan.io |
-| 💼 LinkedIn | https://www.linkedin.com/in/courtez-cannady |
-| ✉️ Email    | ceo@digitalhooligan.io |
-| 📱 Phone    | 540-287-6266 |
-| 📍 Location | Woodbridge, VA |
+---
 
-<br>
-
-<div align="center">
-  <strong>DIGITAL HOOLIGAN</strong><br>
-  <em>Graffiti-coded. Cyberpunk-powered. Built with intention.</em>
-</div>
+**Digital Hooligan LLC**  
+Clean systems. Engineered execution. Built with intention.
